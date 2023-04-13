@@ -52,14 +52,3 @@ build program with no special arguments. There should be no need to
 edit or install anything into the project space for the initial build.
 
 
-testing
-testing23
-test3
-
-Check again
-yes
-
-Check after enable epp
-
-Yes it is not uploaded 
-cross check again again.
